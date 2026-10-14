@@ -39,7 +39,7 @@ Necháme ve vodní lázni rozpustit.
 Všechny nádoby na pečení vysteleme alobalem. Snažíme se, aby se alobal nikde neprotrhl
 a zároveň aby měl co nejméně záhybů (bude se pak lépe odstraňovat).
 
-> [!WARN]
+> [!WARNING]
 > Po dopečení musí brownies ještě cca 2 hodiny chladnout, aby se při vyndavání nelámalo.
 
 > [!TIP]
@@ -103,7 +103,7 @@ Vyčkáme, než robot tekuté ingredience spojí s vejci a cukrem.
 Pokud se robotovi nedaří těsto dostatečně spojit, pomůžeme mu pomalým
 mícháním pomocí stěrky.
 
-> [!WARN]
+> [!WARNING]
 > Příliš rychlým mícháním může dojít k vytlačení vzduchu z těsta.
 
 ### 10. Integrace sypkých ingrediencí (10 min)
